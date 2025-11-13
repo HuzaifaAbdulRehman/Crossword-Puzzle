@@ -173,7 +173,12 @@ COAL_Project/
 
 ## Credits
 
-**Developer**: Huzaifa Abdul Rehman
+### Project Team
+
+- **Ashhad Hassan** - 23K-0584
+- **Huzaifa Abdul Rehman** - 23K-0782
+- **Muhammad Hassaan** - 23K-0570
+
 **Course**: Computer Organization and Assembly Language (COAL)
 **Institution**: FAST-NUCES
 **Year**: 2024
